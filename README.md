@@ -15,5 +15,5 @@ The MariaDB image has been added here because MySQL does not have an image that 
 
 ## Stopping
 To stop use `Ctrl + C`  
-and then use `doccker-compose down`
+and then use `docker-compose down`
 
