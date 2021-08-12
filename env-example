@@ -1,0 +1,2 @@
+DATA_PATH_HOST=.local-data
+DB_PORT=3306
